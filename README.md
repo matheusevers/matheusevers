@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working @ Holonic, a startup that aims to improve patient care through a voice technology that helps providers focus on patients<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently improving my algorithm knowledge using AlgoExpert<br>
+🔭 I’m currently working @ Verbal, a startup that aims to improve patient care through a voice technology that helps providers focus on patients<br>👯 I’m looking to collaborate on open-source projects<br>🌱 I’m currently improving my algorithm knowledge using AlgoExpert<br>
 
 
 ## 🌐 Socials:
